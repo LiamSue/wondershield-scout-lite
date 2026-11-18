@@ -1,0 +1,25 @@
+{
+  "schema": "scout.release-inputs/1",
+  "distribution": "wondershield-scout-lite",
+  "version": "0.1.0.dev2+internalxlsx1",
+  "runtime_files": {
+    "__init__.py": "f3be8b55e3eff6dca6ec9f379533fff57e3f4ebced51e2615b0ddd529aad7af2",
+    "__main__.py": "9d9a6ca95f4c394a9376dd9b81db0605e9b68771b5d75c0a810e9587eb0c63d4",
+    "field_queries.py": "47a70e6a06a1d9cf7f94d298a8100d754e88c4b8db046d6437eb4c5a25d1213f",
+    "lexical.py": "72382e7f34bb55326e1edecb8b336f7b055d9a63812d5378a8733edd8d2fbc20",
+    "observation_adapter.py": "97f5434803021be024a657ab73f1d6bc65389a6ea8d8eb270db796aaa70fb197",
+    "parsers.py": "d9675b8cca5222bf57f3185ec374bb0ad183ec7c49f7cf410361f0d7edfe133a",
+    "scout_lite.py": "4016048b5cc415070116279f4494b0bf4854dcc41c93663eca37c0e1370df562",
+    "sources.py": "e7a9e5cdf68a3acd5761b5bf201fd6a8a164c4fcf88217573a364ef2c07736d6",
+    "task_contract.py": "043dea30f0ee5de2750a681cb002a7f09b2c71abcefd2b405ca19ee16bf6d99f",
+    "task_logic.py": "d5a942ea2e51431906c26ec1ea0ddf73048a2d573f068c9add1293bfcf53d24b",
+    "text_fields.py": "3a8d9adae2209492cedf784c822e2b40856bc682ecf9bc6edb2a254683754d31",
+    "xlsx_cells.py": "6366c649bd36252995efa81879d31ff363f590dafce1a47024a5057db5470310"
+  },
+  "notice_files": {
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "NOTICE": "718509e77691d083dde820e13428c9f5927f5993c89b4892f8ab049c2e3d4713",
+    "THIRD_PARTY_NOTICES.md": "ce2ee3f1ae54a4a8a519c48c80ba7d13ae65f175869b27fac5ef1555ede970a1",
+    "LICENSES/openpyxl-MIT.txt": "0c84bb42f5d367e5ebf9fc2dde35b16141df5ee0fdc189250858bc6c5560f69e"
+  }
+}

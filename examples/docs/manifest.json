@@ -1,0 +1,19 @@
+{
+  "schema": "document-source/1",
+  "epoch": 1,
+  "objects": [
+    {
+      "tenant": "t",
+      "object_id": "book",
+      "version": "1",
+      "owner": "synthetic-owner",
+      "acl": [
+        "p"
+      ],
+      "deleted": false,
+      "format": "xlsx",
+      "path": "book.xlsx",
+      "sha256": "138ce8029840b4258103b2f72ebb5d0a9ff9cc054733d69f29dc0591df05744d"
+    }
+  ]
+}
